@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rm-restaurant-89620": {
+      "hosting": {
+        "RM-Restaurant": [
+          "rm-restaurant-89620"
+        ]
+      }
+    }
+  }
+}
